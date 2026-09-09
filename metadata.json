@@ -1,0 +1,6 @@
+{
+  "name": "KurdoPOS Supermarket System",
+  "description": "سیستەمی پێشکەوتووی فرۆشتنی کوردی بۆ سوپەرمارکێت بە داتابەیسی ناوخۆیی SQLite، ئۆفلاین لەسەر دیڤایس، کاشێری خێرا، شیکاری Qwen AI، و پشتگیری دامەزراندن لەسەر شاشەی سەرەکی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
